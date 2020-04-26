@@ -7,5 +7,6 @@ Darknet YOLOv3 has been used to along with the YOLOv3 preconfigured weights to t
 Operations like fetching video from web camera are I/O intensive, we make use of threading (imutil.py) to make use of seperate thread for I/O related operations and end up in a heavily increased frame rate.
 ### Output
 The output video is generated through OpenCV's VideoWriter to outpu_clip.mp4.
-Watch it here:
+<br />
+**Watch the video it here:**
 [![Watch the video](https://img.youtube.com/vi/AWNhLxG521w/0.jpg)](https://youtu.be/AWNhLxG521w)
