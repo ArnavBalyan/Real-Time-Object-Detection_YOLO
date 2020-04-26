@@ -9,4 +9,6 @@ Operations like fetching video from web camera are I/O intensive, we make use of
 The output video is generated through OpenCV's VideoWriter to outpu_clip.mp4.
 <br />
 **Watch the video it here:**
+<br />
+
 [![Watch the video](https://img.youtube.com/vi/AWNhLxG521w/0.jpg)](https://youtu.be/AWNhLxG521w)
