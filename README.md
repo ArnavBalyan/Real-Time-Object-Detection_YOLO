@@ -8,7 +8,7 @@ Operations like fetching video from web camera are I/O intensive, we make use of
 ### Output
 The output video is generated through OpenCV's VideoWriter to output_clip.mp4.
 <br />
-### Watch the video here:**
 <br />
+### Watch the video here:
 
 [![Watch the video](https://img.youtube.com/vi/AWNhLxG521w/0.jpg)](https://youtu.be/AWNhLxG521w)
