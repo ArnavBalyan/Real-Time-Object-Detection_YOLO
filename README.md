@@ -13,4 +13,4 @@ The output video is generated through OpenCV's VideoWriter to output_clip.mp4.
 <br />
 ### Watch the video here:
 
-[![Watch the video](https://www.youtube.com/watch?v=iugPaqIaCoo)
+[![Watch the video]](https://www.youtube.com/watch?v=iugPaqIaCoo)
